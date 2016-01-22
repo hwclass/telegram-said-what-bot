@@ -1,0 +1,53 @@
+{
+    "quotes": [
+        {
+            "name": "barbaros",
+    		"quotes": [
+                "Yaw he hee..",
+                "Yürü Bea!"
+            ]
+        },
+        {
+            "name": "emre",
+            "quotes": [
+                "Hadi bi el tenis!",
+                "Mezezaki?"
+            ]
+        },
+        {
+            "name": "gürel",
+            "quotes": [
+                "Sikoli",
+                "Bi Duvel alayım ben"
+            ]
+        },
+        {
+            "name": "dünya",
+            "quotes": [
+                "O zaman sıcak şarap var",
+                "böyle tasarımsızlığın ben amk :)"
+            ]
+        },
+        {
+            "name": "hazar",
+            "quotes": [
+                "attila'yı getirdin mi abi?",
+                "abi ben bir yer ile anlaştım :("
+            ]
+        },
+        {
+            "name": "barış",
+            "quotes": [
+                "Vur vur!",
+                "Temizden gel :)"
+            ]
+        },
+        {
+            "name": "Karl Marx",
+            "quotes": [
+                "Workers of the world unite; you have nothing to lose but your chains.",
+                "Religion is the impotence of the human mind to deal with occurrences it cannot understand."
+            ]
+        }
+    ]
+}
