@@ -3,7 +3,6 @@ var TelegramBot = require('node-telegram-bot-api'),
 		bot = new TelegramBot(token, {polling: true});
 
 var SaidWhat = (function (quotes) {
-
 	function getQuote (typedName, callback) {
 		var currentQuote;
 		for (var quoteIndex = 0, len = quotes.quotes.length; quoteIndex < len; quoteIndex++) {
@@ -13,12 +12,11 @@ var SaidWhat = (function (quotes) {
 			}
 		}
 		callback(currentQuote);
-	}
+	};
 
 	return {
 		get : getQuote
 	}
-
 })(JSON.parse(JSON.stringify(require('./data/quotes.json'))));
 
 bot.onText(/\/saidwhat (.+)/, function (msg, match) {
