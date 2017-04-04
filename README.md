@@ -1,7 +1,7 @@
 # telegram-said-what-bot
-A Telegram Bot to archive quotes from legendary moments 
+Telegram Bot to archive quotes from legendary moments! 
 
-#####Usage
+### Usage
 
 * Write down a name you remember like the following:
 
